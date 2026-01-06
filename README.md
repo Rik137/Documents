@@ -13,7 +13,7 @@
   Writing documentation, formatting text
 
 ## Linux
-- [Linux Terminal: Working in the Command Line](link)  
+- [Linux Terminal: Working in the Command Line](https://github.com/Rik137/Working-in-the-Command-Line/blob/main/README.md)  
   Basic Linux commands, Bash scripting
 
 ## Docker
