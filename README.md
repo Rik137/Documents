@@ -9,7 +9,7 @@
   Basic Python, functions, data structures
 
 ## Markdown
-- [Markdown Syntax](link)  
+- [Markdown Syntax](https://github.com/Rik137/Markdown-syntax)  
   Writing documentation, formatting text
 
 ## Linux
