@@ -5,7 +5,7 @@
   Java Core, Spring Boot, Hibernate, Git, SQL
 
 ## Python
-- [Python START](link)  
+- [Python START](https://github.com/Rik137/Python-START/blob/main/README.md)  
   Basic Python, functions, data structures
 
 ## Markdown
