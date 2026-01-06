@@ -1,23 +1,31 @@
 # Documents / Certificates🎓
 
-## Skillbox
-- [Java Developer PRO](https://github.com/Rik137/Sertificate-skillbox/blob/main/README.md)  
-  Java Core, Spring Boot, Hibernate, Git, SQL
+## Java and Spring (Skillbox, 2025, Advanced)
+- [Certificate](https://github.com/Rik137/Sertificate-skillbox/blob/main/README.md)  
+✅ Topics: Java Core, Spring Boot, Hibernate, Git, SQL  
+✅ Format: Online course with projects
 
-## Python
+## Python (Stepik, 2025, Beginner) 
 - [Python START](https://github.com/Rik137/Python-START/blob/main/README.md)  
-  Basic Python, functions, data structures
+✅ Topics: Basic Python, functions, data structures  
+✅ Format: Self-study, exercises included  
 
-## Markdown
-- [Markdown Syntax](https://github.com/Rik137/Markdown-syntax)  
-  Writing documentation, formatting text
+## Markdown (Stepik, 2024, Beginner) 
+- [Markdown Syntax](https://github.com/Rik137/Markdown-syntax)   
+✅ Topics: Writing documentation, formatting text   
+✅ Format: Self-study, exercises included  
 
-## Linux
+
+## Linux (Stepik, 2025, Beginner)
 - [Linux Terminal: Working in the Command Line](https://github.com/Rik137/Working-in-the-Command-Line/blob/main/README.md)  
-  Basic Linux commands, Bash scripting
+✅ Topics: Basic Linux commands, Bash scripting  
+✅ Format: Self-study, exercises included
 
-## Docker
+
+## Docker (Stepik, 2025, Beginner)  
 - [Getting Started with Docker](https://github.com/Rik137/Getting-Started-with-Docker/blob/main/README.md)  
-  Containerization, images, Dockerfile
+✅ Topics: Containerization, Docker images, Dockerfile  
+✅ Format: Self-study, exercises included 
+
 
 
