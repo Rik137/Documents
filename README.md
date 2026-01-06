@@ -17,7 +17,7 @@
   Basic Linux commands, Bash scripting
 
 ## Docker
-- [Getting Started with Docker](link)  
+- [Getting Started with Docker](https://github.com/Rik137/Getting-Started-with-Docker/blob/main/README.md)  
   Containerization, images, Dockerfile
 
 
