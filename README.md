@@ -14,22 +14,27 @@
 - [Certificate](https://github.com/Rik137/Python-START/blob/main/README.md)  
 
 
-## Markdown (Stepik, 2024, Beginner) 
-- [Markdown Syntax](https://github.com/Rik137/Markdown-syntax)   
-✅ Topics: Writing documentation, formatting text   
-✅ Format: Self-study, exercises included  
+# 📝 Markdown
+### Stepik(Markdown Syntax) · 2024
+- Technical documentation
+- README, formattin
+- [Certificate](https://github.com/Rik137/Markdown-syntax)   
 
 
-## Linux (Stepik, 2025, Beginner)
-- [Linux Terminal: Working in the Command Line](https://github.com/Rik137/Working-in-the-Command-Line/blob/main/README.md)  
-✅ Topics: Basic Linux commands, Bash scripting  
-✅ Format: Self-study, exercises included
+
+# 🐧 Linux
+### Stepik(Linux Terminal: Working in the Command Line) · 2025
+- CLI, Bash basics
+- Working environment
+- [Certificate](https://github.com/Rik137/Working-in-the-Command-Line/blob/main/README.md)  
 
 
-## Docker (Stepik, 2025, Beginner)  
-- [Getting Started with Docker](https://github.com/Rik137/Getting-Started-with-Docker/blob/main/README.md)  
-✅ Topics: Containerization, Docker images, Dockerfile  
-✅ Format: Self-study, exercises included 
+# 🐳 Docker
+### Stepik (Getting Started with Docker) · 2025
+- Containerization, Docker images, Dockerfile
+- Self-study, exercises included
+- [Certificate](https://github.com/Rik137/Getting-Started-with-Docker/blob/main/README.md)  
+
 
 
 
