@@ -1,9 +1,11 @@
 # Documents / Certificates🎓
 
-## Java and Spring (Skillbox, 2025, Advanced)
+# ☕ Java / Spring Boot
+#### Skillbox · 2025 · Advanced
+- Java Core, Spring Boot, Hibernate
+- Git, SQL
 - [Certificate](https://github.com/Rik137/Sertificate-skillbox/blob/main/README.md)  
-✅ Topics: Java Core, Spring Boot, Hibernate, Git, SQL  
-✅ Format: Online course with projects
+
 
 ## Python (Stepik, 2025, Beginner) 
 - [Python START](https://github.com/Rik137/Python-START/blob/main/README.md)  
