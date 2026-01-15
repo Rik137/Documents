@@ -7,10 +7,12 @@
 - [Certificate](https://github.com/Rik137/Sertificate-skillbox/blob/main/README.md)  
 
 
-## Python (Stepik, 2025, Beginner) 
-- [Python START](https://github.com/Rik137/Python-START/blob/main/README.md)  
-✅ Topics: Basic Python, functions, data structures  
-✅ Format: Self-study, exercises included  
+# 🐍 Python
+### Stepik(Python START) · 2025 · Beginner
+- Core syntax, functions
+- Data structures
+- [Certificate](https://github.com/Rik137/Python-START/blob/main/README.md)  
+
 
 ## Markdown (Stepik, 2024, Beginner) 
 - [Markdown Syntax](https://github.com/Rik137/Markdown-syntax)   
